@@ -1,7 +1,7 @@
 # 基于SpringBoot+Vue的二手物品交易网站的设计与实现
 
  **功能：** 
-
+ **有不会的或者不懂的都可以QQ1760272627交流一下。** 
  **系统的二个主要模块：** 
 
  **用户：** 
@@ -26,3 +26,5 @@
  **采用技术：** SpringBoot，Mybatis-plus，Vue，redis，mysql，ElementUi 
 
  **工具：** idea，vscode，navicat
+
+ **有不会的或者不懂的都可以QQ1760272627交流一下。** 
