@@ -1,38 +1,16 @@
 # 基于SpringBoot+Vue的二手物品交易网站的设计与实现
 
-#### 介绍
-用户：登录、注册、忘记密码、主页、猜你喜欢、商品列表、下单、在线咨询卖家、商品提问、商品收藏、浏览记录、黑名单、关注卖家、地址管理、个人中心、我的、评论、投诉、订单列表、商品管理等功能
-管理员：首页、商品管理、订单管理、商品类型管理、城市管理、省份咨询、轮播图管理管理、投诉管理、用户管理、管理员管理、个人中心、系统设置
+ **功能：** 
 
-#### 软件架构
-软件架构说明
+ **系统的二个主要模块：** 
 
+ **用户：** 
 
-#### 安装教程
+登录、注册、忘记密码、主页、猜你喜欢、商品列表、下单、在线咨询卖家、商品提问、商品收藏、浏览记录、黑名单、关注卖家、地址管理、个人中心、我的、评论、投诉、订单列表、商品管理等功能
+ **管理员：** 
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+首页、商品管理、订单管理、商品类型管理、城市管理、省份咨询、轮播图管理管理、投诉管理、用户管理、管理员管理、个人中心、系统设置
 
-#### 使用说明
+ **采用技术：** SpringBoot，Mybatis-plus，Vue，redis，mysql，ElementUi 
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+ **工具：** idea，vscode，navicat
