@@ -1,5 +1,5 @@
 # 基于SpringBoot+Vue的二手物品交易网站的设计与实现
-
+ **演示视频：** https://www.bilibili.com/video/BV1zDkAY9Epj/?vd_source=5f273f72fd3dc593e25c33cbccdad12e
  **功能：** 
 
  **有不会的或者不懂的都可以QQ1760272627交流一下。** 
