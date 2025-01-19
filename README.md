@@ -14,18 +14,6 @@
 
 首页、商品管理、订单管理、商品类型管理、城市管理、省份咨询、轮播图管理管理、投诉管理、用户管理、管理员管理、个人中心、系统设置
 
- **系统截图：** 
-![image](https://github.com/user-attachments/assets/a48364ba-32a5-4f7e-adf0-7d92fd66644d)
-![image](https://github.com/user-attachments/assets/f3242a2e-0135-4238-840d-4a656e138ba4)
-![image](https://github.com/user-attachments/assets/53b43cff-d38c-4abe-93fd-9a3946c5fde3)
-![image](https://github.com/user-attachments/assets/249cb07a-2561-440a-8700-c9c1c64dea02)
-![image](https://github.com/user-attachments/assets/f27ce86a-05e6-4740-807c-28be2155ba64)
-![image](https://github.com/user-attachments/assets/ca0b3ca3-fc56-48f0-8c97-1a191c72bff1)
-![image](https://github.com/user-attachments/assets/fe258e32-0bb3-495e-87bd-6260b962b7a0)
-![image](https://github.com/user-attachments/assets/429d6da1-def2-489a-a0be-d3e7b7c9cc0a)
-![image](https://github.com/user-attachments/assets/99b47d51-4f14-4813-8e65-a75a1503d096)
-
-
  **采用技术：** SpringBoot，Mybatis-plus，Vue，redis，mysql，ElementUi 
 
  **工具：** idea，vscode，navicat
